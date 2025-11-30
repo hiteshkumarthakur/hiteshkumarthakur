@@ -1,9 +1,9 @@
-# Hi there 👋, I'm **Hitesh* <width="50" alt="Screenshot 2025-11-30 at 15-19-24 Pin de Jessica Plumly en Kakashi en 2025 Dibujos animados bonitos Dibujos kawaii Dibujos" src="https://github.com/user-attachments/assets/7accb117-d716-48d5-b66d-5db2f6441474" />
-*
+<h2> Hi, I'm Hitesh <img src="https://giffiles.alphacoders.com/139/13958.gif" width="50"></h2>
 
-## 🌐 Get in Touch
+I am a cyber security researcher and programmer. Love to build automation and security related projects.
 
-- [GitHub](https://github.com/YourUsername)  
-- [LinkedIn]([Your LinkedIn URL]) *(optional)*  
+###  About Me
+- I’m currently working on: **Mobile , web, microservices, network, cloud, infra, CTF**  
+- I enjoy solving problems in **security, automation, backend architecture, data processing**  
 
 ---
